@@ -12,7 +12,6 @@ public class UC3 {
 		s.startGame();
 	}
 }
-
 class SnakeNLadder
 {
 	final static int WINPOINT = 100;
