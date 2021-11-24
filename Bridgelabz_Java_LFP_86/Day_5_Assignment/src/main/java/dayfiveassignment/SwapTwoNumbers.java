@@ -20,6 +20,15 @@ public class SwapTwoNumbers {
 		 a = b;
 		 b = c;
 		 System.out.println("After swapping: "+a +"   " + b); //After swapping
+		 
+		 //Task
+		 System.out.println("After combine: " + a + b);
+		 int add = a+b;
+		 System.out.println("After adding: " + add);
+		 int sum = add+30;
+		 System.out.println("Sum of digit: " + sum);
+		 
+		 
 
 	}
 
